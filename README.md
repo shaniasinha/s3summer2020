@@ -1,1 +1,3 @@
-# s3summer2020
+# An upcoming project
+
+Coming soon. Probably.
